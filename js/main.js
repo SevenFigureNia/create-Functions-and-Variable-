@@ -52,3 +52,4 @@ function checkForSummer(month){
     }
  }
  skip5(14);
+
